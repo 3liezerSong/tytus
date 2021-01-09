@@ -63,4 +63,4 @@ def generate_grapviz(cadena, path_file, ):
         #f.show()d
     else:
         os.makedirs('./resource/')
-        return generate_grapviz(cadena, path_file)
+        return generate_grapviz(cadena, path_file)#
